@@ -57,8 +57,12 @@ Os dados foram tratados da seguinte forma:
 
 * Para pacientes que possuem valores de algumas features como NaN, na janela 0-2, mas possuem valores nas janelas subsequentes, estes foram preenchidos com usando a tecnica back-fill e foward-fill.
 
+Dados disponíveis:
+
+![Features](https://raw.githubusercontent.com/LucasGabrielB/Previsao-de-internacao-na-UTI-para-casos-de-COVID19/main/Features.png)
 
 ## Resultados
 
 Foi escolhido o modelo [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html).   
 No qual obtivemos uma precisão media final de 73.17%, curva ROC, AUC de 77% e recall de 65.7%.
+
