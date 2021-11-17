@@ -2,7 +2,7 @@
 
 
 
-## Nosso desafio 
+## Desafio 
 
 Tentar prever admissão na UTI de casos confirmados de COVID-19,
 com base nos dados disponíveis. É viável prever quais pacientes precisarão de suporte em unidade de terapia intensiva?  
