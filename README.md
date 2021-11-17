@@ -25,9 +25,9 @@ Above-12 | De 12 horas após a admissão.
 
 Exemplos: 
 
-![Exemplo 01](https://github.com/LucasGabrielB/Alura-Bootcamp-Data-Science-Aplicada/raw/main/Projeto-Final/Imagem%20exemplo%2001.png)  
+![Exemplo 01](https://raw.githubusercontent.com/LucasGabrielB/Previsao-de-internacao-na-UTI-para-casos-de-COVID19/main/Imagem%20exemplo%2001.png)  
 
-![Exemplo 02](https://github.com/LucasGabrielB/Alura-Bootcamp-Data-Science-Aplicada/raw/main/Projeto-Final/Imagem%20exemplo%2002.png)  
+![Exemplo 02](https://raw.githubusercontent.com/LucasGabrielB/Previsao-de-internacao-na-UTI-para-casos-de-COVID19/main/Imagem%20exemplo%2002.png)  
 
 
 ## Engenharia de Características (Feature engineering)
