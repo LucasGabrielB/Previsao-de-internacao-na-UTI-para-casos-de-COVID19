@@ -21,7 +21,8 @@ Janela   | Descrição
 4-6	     | De 4 a 6 horas desde a admissão.  
 6-12     | De 6 a 12 horas desde a admissão. 
 Above-12 | De 12 horas após a admissão.  
-<hr>     | <hr>
+
+<hr>
 
 Exemplos: 
 
